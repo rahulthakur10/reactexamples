@@ -1,0 +1,23 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.heading{
+  color: #f10091;
+  font-size: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.img_div{
+  display: flex;
+  justify-content: center;
+}
+.img_div img{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+
+}
